@@ -15,10 +15,11 @@
 **Team Number:** 14
 
 ### Team Members
-
- 1  PRAVEEN - 2520030406
- 2  DHARANI DHAR - 2520030163
- 3  RISHI - 2520030268
+| Team Member | ID Number |
+|---|---|
+| Busala Laxmi Praveen | 2520030406 |
+| Dharani Dhar | 2520030163 |
+| A. RISHI | 2520030268 |
 
 **Supervisor:**   K.HARIKA DEVI
 
